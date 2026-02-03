@@ -1,0 +1,51 @@
+[
+    {
+      "name": "HTML",
+      "icon": "/assets/images/skills/html.png"
+    },
+    {
+      "name": "CSS",
+      "icon": "/assets/images/skills/css.png"
+    },
+    {
+      "name": "JavaScript",
+      "icon": "/assets/images/skills/javascript.png"
+    },
+    {
+      "name": "React JS",
+      "icon": "/assets/images/skills/react.png"
+    },
+    {
+      "name": "Node JS",
+      "icon": "/assets/images/skills/nodejs.png"
+    },
+    {
+      "name": "PHP",
+      "icon": "/assets/images/skills/php.png"
+    },
+    {
+      "name": "MySQL",
+      "icon": "/assets/images/skills/mysql.png"
+    },
+    {
+      "name": "Laravel",
+      "icon": "/assets/images/skills/laravel.png"
+    },
+    {
+      "name": "Flutter",
+      "icon": "/assets/images/skills/flutter.png"
+    },
+    {
+      "name": "Android",
+      "icon": "/assets/images/skills/android.png"
+    },
+    {
+      "name": "Python",
+      "icon": "/assets/images/skills/python.png"
+    },
+    {
+      "name": "Git",
+      "icon": "/assets/images/skills/git.png"
+    }
+  ]
+  

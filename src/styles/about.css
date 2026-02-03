@@ -1,0 +1,51 @@
+.about {
+  padding: 100px 20px;
+  background: #000000;
+  text-align: center;
+}
+
+.about-title {
+  font-size: 3rem;
+  color: #ffffff;
+  margin-bottom: 50px;
+}
+
+.about-container {
+  display: flex;
+  align-items: flex-start; /* teks dan foto menempel atas */
+  justify-content: center;
+  gap: 51px;
+  max-width: 1000px;
+  margin: auto;
+  padding-top: 20px; /* tambah jarak dari atas section */
+  flex-wrap: wrap;
+}
+
+
+.about-image img {
+  width: 300px;
+  height: 300px;
+  border-radius: 18px;
+  object-fit: cover;
+  border: 3px solid #ffae00;
+  box-shadow: 0 0 15px #ffae00;
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.about-image img:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 0 25px #ffae00;
+}
+
+.about-content {
+  flex: 1;
+  min-width: 280px;
+  text-align: left;
+  margin-top: 30px; /* geser teks 20px ke atas */
+}
+
+.about-text {
+  color: #cbcfd5;
+  font-size: 1.5rem;
+  line-height: 1.8;
+}

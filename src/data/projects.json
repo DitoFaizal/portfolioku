@@ -1,0 +1,42 @@
+[
+  {
+    "name": "Payroll Website",
+    "desc": "A full-featured payroll website for employees at the Anwusa Demak company, allowing staff to view payslips, track attendance, calculate salaries with deductions and bonuses, and generate monthly reports. Built with a responsive design for both desktop and mobile access.",
+    "image": "project1",
+    "category": "web",
+    "links": {
+      "view": "https://yourwebsite.com",
+      "code": "https://github.com/DitoFaizal/"
+    }
+  },
+  {
+    "name": "Ship Dock and Warehouse Stock Website",
+    "desc": "Web application designed to manage ship docks and warehouse inventory efficiently. Includes features such as stock management, item tracking, order processing, and reporting. The system helps improve operational workflow and ensures accurate real-time data for inventory and docking schedules.",
+    "image": "project2",
+    "category": "web",
+    "links": {
+      "view": "https://yourwebsite.com",
+      "code": "https://github.com/DitoFaizal/"
+    }
+  },
+  {
+    "name": "Etoya Web Application (PAB)",
+    "desc": "An application for recording water meter readings and processing customer payments for water services. It supports automated billing, payment tracking, and generates detailed usage reports. Built to improve efficiency for utility management and reduce manual errors in meter reading and billing.",
+    "image": "project3",
+    "category": "web",
+    "links": {
+      "view": "https://yourwebsite.com",
+      "code": "https://github.com/DitoFaizal/"
+    }
+  },
+  {
+    "name": "Baby Heartbeat Simulator",
+    "desc": "A tool for calibrating fetal doppler devices using IoT technology. It simulates realistic baby heartbeats with configurable BPM ranges, allowing healthcare professionals and technicians to test, calibrate, and validate doppler devices. Includes IoT integration for remote monitoring and data logging.",
+    "image": "project4",
+    "category": "Internet of Things",
+    "links": {
+      "view": "https://yourwebsite.com",
+      "code": "https://github.com/DitoFaizal/"
+    }
+  }
+]

@@ -1,0 +1,56 @@
+.myskill {
+  padding: 100px 20px;
+  background: #000000;
+  text-align: center;
+}
+
+.section-title {
+  font-size: 3rem;
+  color: #ffffff;
+  margin-bottom: 50px;
+}
+
+.skills-container {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+  gap: 25px;
+  max-width: 1000px;
+  margin: auto;
+}
+
+.skill-card {
+  background: #000000;
+  padding: 20px;
+  border-radius: 18px;
+  border: 2px solid #ffae00;
+  box-shadow: 0 0 10px #ffae00;
+  transition: transform 0.3s, box-shadow 0.3s;
+}
+
+.skill-card h3 {
+  font-size: 1.5rem;
+  color: #e5e7eb;
+  margin-bottom: 10px;
+}
+
+/* Hover effect + tilt sudah ada */
+.skill-card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 0 20px #ffae00;
+}
+
+.highlight {
+  color: #ffae00;
+}
+
+.skill-icons {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 21px;
+}
+
+.skill-card h3 {
+  font-size: 1.7rem;
+  color: #ffffff;
+  margin-top: 5px;
+}
