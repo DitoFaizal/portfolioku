@@ -50,9 +50,9 @@ export default function Hero() {
           </a>
 
           <div className="socials">
-            <a href="https://www.linkedin.com" target="_blank" rel="noreferrer"><FontAwesomeIcon icon={faLinkedin} /></a>
-            <a href="https://github.com" target="_blank" rel="noreferrer"><FontAwesomeIcon icon={faGithub} /></a>
-            <a href="https://instagram.com" target="_blank" rel="noreferrer"><FontAwesomeIcon icon={faInstagram} /></a>
+            <a href="https://www.linkedin.com/in/ditofaizalafif" target="_blank" rel="noreferrer"><FontAwesomeIcon icon={faLinkedin} /></a>
+            <a href="https://github.com/DitoFaizal" target="_blank" rel="noreferrer"><FontAwesomeIcon icon={faGithub} /></a>
+            <a href="https://instagram.com/ditofaizal" target="_blank" rel="noreferrer"><FontAwesomeIcon icon={faInstagram} /></a>
             <a href="https://wa.me/6289618881072" target="_blank" rel="noreferrer"><FontAwesomeIcon icon={faWhatsapp} /></a>
             <a href="mailto:ditofaizal182@gmail.com"><FontAwesomeIcon icon={faEnvelope} /></a>
           </div>
