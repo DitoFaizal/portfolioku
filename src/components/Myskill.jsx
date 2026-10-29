@@ -2,7 +2,8 @@ import React, { useEffect, useRef } from "react";
 import "../styles/myskill.css";
 import VanillaTilt from "vanilla-tilt";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
-import { faReact, faHtml5, faCss3Alt, faJs, faPhp, faGithub } from "@fortawesome/free-brands-svg-icons";
+import { faReact, faHtml5, faCss3Alt, faJs, faPhp, faGithub, faWifi } from "@fortawesome/free-brands-svg-icons";
+import { faWifi } from "@fortawesome/free-solid-svg-icons";
 import { SiCplusplus, SiSupabase  } from "react-icons/si"; 
 
 
@@ -10,7 +11,8 @@ const skills = [
   { name: "React", icon: faReact },
   { name: "C++", icon: SiCplusplus },
   { name: "HTML, CSS & JS", icon: [faHtml5, faCss3Alt, faJs] }, 
-  { name: "PHP & MySQL", icon: [faPhp, faGithub] } 
+  { name: "PHP & MySQL", icon: [faPhp, faGithub] }, 
+  { name: "MikroTik", icon: [faWifi] } 
 ];
 
 export default function MySkill() {
