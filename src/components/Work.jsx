@@ -17,10 +17,19 @@ const workData = [
     {
       company: "CV. Inti Ahsan Teknologi",
       position: "Front-End Developer",
-      duration: "2025 - Sekarang",
+      duration: "2025 - 2026",
       description: [
         "Build an Etoya web application (PAB) using PHP, JS, Bootstrap, HTML.",
         "Build a ship dock and warehouse stock web application using PHP, JS, Bootstrap, HTML."
+      ], 
+    },
+    {
+      company: "CV. Inti Ahsan Teknologi",
+      position: "Technical Support",
+      duration: "2026 - Sekarang",
+      description: [
+        "Installing fiber optic and wireless internet services for customers.",
+        "Configuring routers, access points, and network devices according to customer needs."
       ], 
     },
   ];
