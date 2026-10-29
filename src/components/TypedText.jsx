@@ -8,9 +8,8 @@ export default function TypedText() {
     const typed = new Typed(el.current, {
       strings: [
         "frontend development",
-        "web designing",
-        "internet of things",
         "web development",
+        "technical support",
       ],
       loop: true,
       typeSpeed: 50,
